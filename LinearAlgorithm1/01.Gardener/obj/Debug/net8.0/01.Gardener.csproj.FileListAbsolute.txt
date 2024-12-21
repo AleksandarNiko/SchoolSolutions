@@ -1,0 +1,14 @@
+D:\schoolWork\LinearAlgorithm1\01.Gardener\bin\Debug\net8.0\01.Gardener.exe
+D:\schoolWork\LinearAlgorithm1\01.Gardener\bin\Debug\net8.0\01.Gardener.deps.json
+D:\schoolWork\LinearAlgorithm1\01.Gardener\bin\Debug\net8.0\01.Gardener.runtimeconfig.json
+D:\schoolWork\LinearAlgorithm1\01.Gardener\bin\Debug\net8.0\01.Gardener.dll
+D:\schoolWork\LinearAlgorithm1\01.Gardener\bin\Debug\net8.0\01.Gardener.pdb
+D:\schoolWork\LinearAlgorithm1\01.Gardener\obj\Debug\net8.0\01.Gardener.GeneratedMSBuildEditorConfig.editorconfig
+D:\schoolWork\LinearAlgorithm1\01.Gardener\obj\Debug\net8.0\01.Gardener.AssemblyInfoInputs.cache
+D:\schoolWork\LinearAlgorithm1\01.Gardener\obj\Debug\net8.0\01.Gardener.AssemblyInfo.cs
+D:\schoolWork\LinearAlgorithm1\01.Gardener\obj\Debug\net8.0\01.Gardener.csproj.CoreCompileInputs.cache
+D:\schoolWork\LinearAlgorithm1\01.Gardener\obj\Debug\net8.0\01.Gardener.dll
+D:\schoolWork\LinearAlgorithm1\01.Gardener\obj\Debug\net8.0\refint\01.Gardener.dll
+D:\schoolWork\LinearAlgorithm1\01.Gardener\obj\Debug\net8.0\01.Gardener.pdb
+D:\schoolWork\LinearAlgorithm1\01.Gardener\obj\Debug\net8.0\01.Gardener.genruntimeconfig.cache
+D:\schoolWork\LinearAlgorithm1\01.Gardener\obj\Debug\net8.0\ref\01.Gardener.dll

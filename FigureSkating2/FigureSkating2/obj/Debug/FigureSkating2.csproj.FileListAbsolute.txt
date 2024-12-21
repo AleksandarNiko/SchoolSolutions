@@ -1,0 +1,10 @@
+D:\schoolWork\FigureSkating2\FigureSkating2\bin\Debug\FigureSkating2.exe.config
+D:\schoolWork\FigureSkating2\FigureSkating2\bin\Debug\FigureSkating2.exe
+D:\schoolWork\FigureSkating2\FigureSkating2\bin\Debug\FigureSkating2.pdb
+D:\schoolWork\FigureSkating2\FigureSkating2\obj\Debug\FigureSkating2.csproj.AssemblyReference.cache
+D:\schoolWork\FigureSkating2\FigureSkating2\obj\Debug\FigureSkating2.Form1.resources
+D:\schoolWork\FigureSkating2\FigureSkating2\obj\Debug\FigureSkating2.Properties.Resources.resources
+D:\schoolWork\FigureSkating2\FigureSkating2\obj\Debug\FigureSkating2.csproj.GenerateResource.cache
+D:\schoolWork\FigureSkating2\FigureSkating2\obj\Debug\FigureSkating2.csproj.CoreCompileInputs.cache
+D:\schoolWork\FigureSkating2\FigureSkating2\obj\Debug\FigureSkating2.exe
+D:\schoolWork\FigureSkating2\FigureSkating2\obj\Debug\FigureSkating2.pdb

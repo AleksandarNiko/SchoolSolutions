@@ -1,0 +1,7 @@
+D:\c# fundamentals\decomposition\decomposition\bin\Debug\decomposition.exe.config
+D:\c# fundamentals\decomposition\decomposition\bin\Debug\decomposition.exe
+D:\c# fundamentals\decomposition\decomposition\bin\Debug\decomposition.pdb
+D:\c# fundamentals\decomposition\decomposition\obj\Debug\decomposition.csproj.AssemblyReference.cache
+D:\c# fundamentals\decomposition\decomposition\obj\Debug\decomposition.csproj.CoreCompileInputs.cache
+D:\c# fundamentals\decomposition\decomposition\obj\Debug\decomposition.exe
+D:\c# fundamentals\decomposition\decomposition\obj\Debug\decomposition.pdb
