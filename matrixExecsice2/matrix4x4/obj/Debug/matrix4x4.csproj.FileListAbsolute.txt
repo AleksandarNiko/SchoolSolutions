@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Desktop\schoolWork\matrixExecsice2\matrix4x4\bin\Debug\matrix4x4.exe.config
+C:\Users\Lenovo\Desktop\schoolWork\matrixExecsice2\matrix4x4\bin\Debug\matrix4x4.exe
+C:\Users\Lenovo\Desktop\schoolWork\matrixExecsice2\matrix4x4\bin\Debug\matrix4x4.pdb
+C:\Users\Lenovo\Desktop\schoolWork\matrixExecsice2\matrix4x4\obj\Debug\matrix4x4.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\schoolWork\matrixExecsice2\matrix4x4\obj\Debug\matrix4x4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\schoolWork\matrixExecsice2\matrix4x4\obj\Debug\matrix4x4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\schoolWork\matrixExecsice2\matrix4x4\obj\Debug\matrix4x4.exe
+C:\Users\Lenovo\Desktop\schoolWork\matrixExecsice2\matrix4x4\obj\Debug\matrix4x4.pdb

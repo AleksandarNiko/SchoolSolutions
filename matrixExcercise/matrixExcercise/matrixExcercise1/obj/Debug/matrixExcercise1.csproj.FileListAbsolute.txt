@@ -1,0 +1,15 @@
+C:\Users\10v_1_10\source\repos\matrixExcercise\matrixExcercise1\bin\Debug\matrixExcercise1.exe.config
+C:\Users\10v_1_10\source\repos\matrixExcercise\matrixExcercise1\bin\Debug\matrixExcercise1.exe
+C:\Users\10v_1_10\source\repos\matrixExcercise\matrixExcercise1\bin\Debug\matrixExcercise1.pdb
+C:\Users\10v_1_10\source\repos\matrixExcercise\matrixExcercise1\obj\Debug\matrixExcercise1.csproj.AssemblyReference.cache
+C:\Users\10v_1_10\source\repos\matrixExcercise\matrixExcercise1\obj\Debug\matrixExcercise1.csproj.CoreCompileInputs.cache
+C:\Users\10v_1_10\source\repos\matrixExcercise\matrixExcercise1\obj\Debug\matrixExcercise1.exe
+C:\Users\10v_1_10\source\repos\matrixExcercise\matrixExcercise1\obj\Debug\matrixExcercise1.pdb
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\matrixExcercise\matrixExcercise1\bin\Debug\matrixExcercise1.exe.config
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\matrixExcercise\matrixExcercise1\bin\Debug\matrixExcercise1.exe
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\matrixExcercise\matrixExcercise1\bin\Debug\matrixExcercise1.pdb
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\matrixExcercise\matrixExcercise1\obj\Debug\matrixExcercise1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\matrixExcercise\matrixExcercise1\obj\Debug\matrixExcercise1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\matrixExcercise\matrixExcercise1\obj\Debug\matrixExcercise1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\matrixExcercise\matrixExcercise1\obj\Debug\matrixExcercise1.exe
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\matrixExcercise\matrixExcercise1\obj\Debug\matrixExcercise1.pdb

@@ -1,0 +1,8 @@
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\matrixExcercise\excercise 2\bin\Debug\excercise 2.exe.config
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\matrixExcercise\excercise 2\bin\Debug\excercise 2.exe
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\matrixExcercise\excercise 2\bin\Debug\excercise 2.pdb
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\matrixExcercise\excercise 2\obj\Debug\excercise 2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\matrixExcercise\excercise 2\obj\Debug\excercise 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\matrixExcercise\excercise 2\obj\Debug\excercise 2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\matrixExcercise\excercise 2\obj\Debug\excercise 2.exe
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\matrixExcercise\excercise 2\obj\Debug\excercise 2.pdb
