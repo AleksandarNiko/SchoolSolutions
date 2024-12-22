@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\schoolWork\schoolWork for 14.10\NOD\bin\Debug\NOD.exe.config
+C:\Users\Lenovo\Desktop\schoolWork\schoolWork for 14.10\NOD\bin\Debug\NOD.exe
+C:\Users\Lenovo\Desktop\schoolWork\schoolWork for 14.10\NOD\bin\Debug\NOD.pdb
+C:\Users\Lenovo\Desktop\schoolWork\schoolWork for 14.10\NOD\obj\Debug\02.NOD.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\schoolWork\schoolWork for 14.10\NOD\obj\Debug\02.NOD.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\schoolWork\schoolWork for 14.10\NOD\obj\Debug\NOD.exe
+C:\Users\Lenovo\Desktop\schoolWork\schoolWork for 14.10\NOD\obj\Debug\NOD.pdb

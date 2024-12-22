@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\schoolWork\MethodsSchool2\05\bin\Debug\05.exe.config
+C:\Users\Lenovo\Desktop\schoolWork\MethodsSchool2\05\bin\Debug\05.exe
+C:\Users\Lenovo\Desktop\schoolWork\MethodsSchool2\05\bin\Debug\05.pdb
+C:\Users\Lenovo\Desktop\schoolWork\MethodsSchool2\05\obj\Debug\05.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\schoolWork\MethodsSchool2\05\obj\Debug\05.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\schoolWork\MethodsSchool2\05\obj\Debug\05.exe
+C:\Users\Lenovo\Desktop\schoolWork\MethodsSchool2\05\obj\Debug\05.pdb
