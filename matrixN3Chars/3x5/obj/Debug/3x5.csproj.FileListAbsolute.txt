@@ -1,0 +1,6 @@
+C:\Users\10v_1_10\Desktop\Aleksandar Info\matrixN3Chars\3x5\bin\Debug\3x5.exe.config
+C:\Users\10v_1_10\Desktop\Aleksandar Info\matrixN3Chars\3x5\bin\Debug\3x5.exe
+C:\Users\10v_1_10\Desktop\Aleksandar Info\matrixN3Chars\3x5\bin\Debug\3x5.pdb
+C:\Users\10v_1_10\Desktop\Aleksandar Info\matrixN3Chars\3x5\obj\Debug\3x5.csproj.CoreCompileInputs.cache
+C:\Users\10v_1_10\Desktop\Aleksandar Info\matrixN3Chars\3x5\obj\Debug\3x5.exe
+C:\Users\10v_1_10\Desktop\Aleksandar Info\matrixN3Chars\3x5\obj\Debug\3x5.pdb

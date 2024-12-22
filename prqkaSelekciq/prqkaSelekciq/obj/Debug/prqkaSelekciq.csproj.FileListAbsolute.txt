@@ -1,0 +1,7 @@
+C:\Users\10v_1_10\Desktop\Aleksandar Info\prqkaSelekciq\prqkaSelekciq\bin\Debug\prqkaSelekciq.exe.config
+C:\Users\10v_1_10\Desktop\Aleksandar Info\prqkaSelekciq\prqkaSelekciq\bin\Debug\prqkaSelekciq.exe
+C:\Users\10v_1_10\Desktop\Aleksandar Info\prqkaSelekciq\prqkaSelekciq\bin\Debug\prqkaSelekciq.pdb
+C:\Users\10v_1_10\Desktop\Aleksandar Info\prqkaSelekciq\prqkaSelekciq\obj\Debug\prqkaSelekciq.csproj.AssemblyReference.cache
+C:\Users\10v_1_10\Desktop\Aleksandar Info\prqkaSelekciq\prqkaSelekciq\obj\Debug\prqkaSelekciq.csproj.CoreCompileInputs.cache
+C:\Users\10v_1_10\Desktop\Aleksandar Info\prqkaSelekciq\prqkaSelekciq\obj\Debug\prqkaSelekciq.exe
+C:\Users\10v_1_10\Desktop\Aleksandar Info\prqkaSelekciq\prqkaSelekciq\obj\Debug\prqkaSelekciq.pdb

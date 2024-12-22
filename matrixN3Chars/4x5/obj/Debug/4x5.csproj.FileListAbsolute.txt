@@ -1,0 +1,7 @@
+C:\Users\10v_1_10\Desktop\Aleksandar Info\matrixN3Chars\4x5\bin\Debug\4x5.exe.config
+C:\Users\10v_1_10\Desktop\Aleksandar Info\matrixN3Chars\4x5\bin\Debug\4x5.exe
+C:\Users\10v_1_10\Desktop\Aleksandar Info\matrixN3Chars\4x5\bin\Debug\4x5.pdb
+C:\Users\10v_1_10\Desktop\Aleksandar Info\matrixN3Chars\4x5\obj\Debug\4x5.csproj.AssemblyReference.cache
+C:\Users\10v_1_10\Desktop\Aleksandar Info\matrixN3Chars\4x5\obj\Debug\4x5.csproj.CoreCompileInputs.cache
+C:\Users\10v_1_10\Desktop\Aleksandar Info\matrixN3Chars\4x5\obj\Debug\4x5.exe
+C:\Users\10v_1_10\Desktop\Aleksandar Info\matrixN3Chars\4x5\obj\Debug\4x5.pdb
