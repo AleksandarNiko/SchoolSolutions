@@ -1,0 +1,7 @@
+C:\Users\10v_1_10\Desktop\Aleksandar Info\5x5MatrixWithMethods\5x5 matrix with methods\bin\Debug\5x5 matrix with methods.exe.config
+C:\Users\10v_1_10\Desktop\Aleksandar Info\5x5MatrixWithMethods\5x5 matrix with methods\bin\Debug\5x5 matrix with methods.exe
+C:\Users\10v_1_10\Desktop\Aleksandar Info\5x5MatrixWithMethods\5x5 matrix with methods\bin\Debug\5x5 matrix with methods.pdb
+C:\Users\10v_1_10\Desktop\Aleksandar Info\5x5MatrixWithMethods\5x5 matrix with methods\obj\Debug\5x5 matrix with methods.csproj.AssemblyReference.cache
+C:\Users\10v_1_10\Desktop\Aleksandar Info\5x5MatrixWithMethods\5x5 matrix with methods\obj\Debug\5x5 matrix with methods.csproj.CoreCompileInputs.cache
+C:\Users\10v_1_10\Desktop\Aleksandar Info\5x5MatrixWithMethods\5x5 matrix with methods\obj\Debug\5x5 matrix with methods.exe
+C:\Users\10v_1_10\Desktop\Aleksandar Info\5x5MatrixWithMethods\5x5 matrix with methods\obj\Debug\5x5 matrix with methods.pdb
