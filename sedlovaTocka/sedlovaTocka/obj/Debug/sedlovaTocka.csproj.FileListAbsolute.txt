@@ -1,0 +1,7 @@
+C:\Users\10v_1_10\Desktop\Aleksandar Info\sedlovaTocka\sedlovaTocka\bin\Debug\sedlovaTocka.exe.config
+C:\Users\10v_1_10\Desktop\Aleksandar Info\sedlovaTocka\sedlovaTocka\bin\Debug\sedlovaTocka.exe
+C:\Users\10v_1_10\Desktop\Aleksandar Info\sedlovaTocka\sedlovaTocka\bin\Debug\sedlovaTocka.pdb
+C:\Users\10v_1_10\Desktop\Aleksandar Info\sedlovaTocka\sedlovaTocka\obj\Debug\sedlovaTocka.csproj.AssemblyReference.cache
+C:\Users\10v_1_10\Desktop\Aleksandar Info\sedlovaTocka\sedlovaTocka\obj\Debug\sedlovaTocka.csproj.CoreCompileInputs.cache
+C:\Users\10v_1_10\Desktop\Aleksandar Info\sedlovaTocka\sedlovaTocka\obj\Debug\sedlovaTocka.exe
+C:\Users\10v_1_10\Desktop\Aleksandar Info\sedlovaTocka\sedlovaTocka\obj\Debug\sedlovaTocka.pdb
