@@ -1,0 +1,7 @@
+C:\Users\10v_1_10\Desktop\Aleksandar Info\zad7_AleksN\zad7_AleksN\bin\Debug\zad7_AleksN.exe.config
+C:\Users\10v_1_10\Desktop\Aleksandar Info\zad7_AleksN\zad7_AleksN\bin\Debug\zad7_AleksN.exe
+C:\Users\10v_1_10\Desktop\Aleksandar Info\zad7_AleksN\zad7_AleksN\bin\Debug\zad7_AleksN.pdb
+C:\Users\10v_1_10\Desktop\Aleksandar Info\zad7_AleksN\zad7_AleksN\obj\Debug\zad7_AleksN.csproj.AssemblyReference.cache
+C:\Users\10v_1_10\Desktop\Aleksandar Info\zad7_AleksN\zad7_AleksN\obj\Debug\zad7_AleksN.csproj.CoreCompileInputs.cache
+C:\Users\10v_1_10\Desktop\Aleksandar Info\zad7_AleksN\zad7_AleksN\obj\Debug\zad7_AleksN.exe
+C:\Users\10v_1_10\Desktop\Aleksandar Info\zad7_AleksN\zad7_AleksN\obj\Debug\zad7_AleksN.pdb
