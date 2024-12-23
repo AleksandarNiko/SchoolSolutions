@@ -1,0 +1,14 @@
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\01.Pets\bin\Debug\net8.0\01.Pets.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\01.Pets\bin\Debug\net8.0\01.Pets.deps.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\01.Pets\bin\Debug\net8.0\01.Pets.runtimeconfig.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\01.Pets\bin\Debug\net8.0\01.Pets.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\01.Pets\bin\Debug\net8.0\01.Pets.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\01.Pets\obj\Debug\net8.0\01.Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\01.Pets\obj\Debug\net8.0\01.Pets.AssemblyInfoInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\01.Pets\obj\Debug\net8.0\01.Pets.AssemblyInfo.cs
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\01.Pets\obj\Debug\net8.0\01.Pets.csproj.CoreCompileInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\01.Pets\obj\Debug\net8.0\01.Pets.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\01.Pets\obj\Debug\net8.0\refint\01.Pets.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\01.Pets\obj\Debug\net8.0\01.Pets.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\01.Pets\obj\Debug\net8.0\01.Pets.genruntimeconfig.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\01.Pets\obj\Debug\net8.0\ref\01.Pets.dll

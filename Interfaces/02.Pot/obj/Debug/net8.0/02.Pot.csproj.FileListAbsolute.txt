@@ -1,0 +1,14 @@
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\02.Pot\bin\Debug\net8.0\02.Pot.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\02.Pot\bin\Debug\net8.0\02.Pot.deps.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\02.Pot\bin\Debug\net8.0\02.Pot.runtimeconfig.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\02.Pot\bin\Debug\net8.0\02.Pot.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\02.Pot\bin\Debug\net8.0\02.Pot.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\02.Pot\obj\Debug\net8.0\02.Pot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\02.Pot\obj\Debug\net8.0\02.Pot.AssemblyInfoInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\02.Pot\obj\Debug\net8.0\02.Pot.AssemblyInfo.cs
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\02.Pot\obj\Debug\net8.0\02.Pot.csproj.CoreCompileInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\02.Pot\obj\Debug\net8.0\02.Pot.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\02.Pot\obj\Debug\net8.0\refint\02.Pot.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\02.Pot\obj\Debug\net8.0\02.Pot.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\02.Pot\obj\Debug\net8.0\02.Pot.genruntimeconfig.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\02.Pot\obj\Debug\net8.0\ref\02.Pot.dll
