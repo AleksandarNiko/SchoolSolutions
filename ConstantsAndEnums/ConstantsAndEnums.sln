@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.FlightTicket", "01.FlightTicket\01.FlightTicket.csproj", "{A92A8DB4-CEEB-4597-BF2C-26395DC5704A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Kindergarten", "02.Kindergarten\02.Kindergarten.csproj", "{316AE2CC-75A0-464B-84DA-8CA84C24FDF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A92A8DB4-CEEB-4597-BF2C-26395DC5704A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92A8DB4-CEEB-4597-BF2C-26395DC5704A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92A8DB4-CEEB-4597-BF2C-26395DC5704A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92A8DB4-CEEB-4597-BF2C-26395DC5704A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{316AE2CC-75A0-464B-84DA-8CA84C24FDF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316AE2CC-75A0-464B-84DA-8CA84C24FDF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316AE2CC-75A0-464B-84DA-8CA84C24FDF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316AE2CC-75A0-464B-84DA-8CA84C24FDF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3D0862A-30E4-4520-9ED8-61AA1789D0EF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ConstantsAndEnums\02.Kindergarten\bin\Debug\net8.0\02.Kindergarten.exe
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ConstantsAndEnums\02.Kindergarten\bin\Debug\net8.0\02.Kindergarten.deps.json
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ConstantsAndEnums\02.Kindergarten\bin\Debug\net8.0\02.Kindergarten.runtimeconfig.json
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ConstantsAndEnums\02.Kindergarten\bin\Debug\net8.0\02.Kindergarten.dll
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ConstantsAndEnums\02.Kindergarten\bin\Debug\net8.0\02.Kindergarten.pdb
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ConstantsAndEnums\02.Kindergarten\obj\Debug\net8.0\02.Kindergarten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ConstantsAndEnums\02.Kindergarten\obj\Debug\net8.0\02.Kindergarten.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ConstantsAndEnums\02.Kindergarten\obj\Debug\net8.0\02.Kindergarten.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ConstantsAndEnums\02.Kindergarten\obj\Debug\net8.0\02.Kindergarten.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ConstantsAndEnums\02.Kindergarten\obj\Debug\net8.0\02.Kindergarten.dll
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ConstantsAndEnums\02.Kindergarten\obj\Debug\net8.0\refint\02.Kindergarten.dll
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ConstantsAndEnums\02.Kindergarten\obj\Debug\net8.0\02.Kindergarten.pdb
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ConstantsAndEnums\02.Kindergarten\obj\Debug\net8.0\02.Kindergarten.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ConstantsAndEnums\02.Kindergarten\obj\Debug\net8.0\ref\02.Kindergarten.dll
