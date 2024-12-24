@@ -1,0 +1,10 @@
+C:\Users\11v_1_7\source\repos\DialogBoxes\DialogBoxes\bin\Debug\DialogBoxes.exe.config
+C:\Users\11v_1_7\source\repos\DialogBoxes\DialogBoxes\bin\Debug\DialogBoxes.exe
+C:\Users\11v_1_7\source\repos\DialogBoxes\DialogBoxes\bin\Debug\DialogBoxes.pdb
+C:\Users\11v_1_7\source\repos\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.csproj.AssemblyReference.cache
+C:\Users\11v_1_7\source\repos\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.Form1.resources
+C:\Users\11v_1_7\source\repos\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.Properties.Resources.resources
+C:\Users\11v_1_7\source\repos\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.csproj.GenerateResource.cache
+C:\Users\11v_1_7\source\repos\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.csproj.CoreCompileInputs.cache
+C:\Users\11v_1_7\source\repos\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.exe
+C:\Users\11v_1_7\source\repos\DialogBoxes\DialogBoxes\obj\Debug\DialogBoxes.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialogBoxes", "DialogBoxes\DialogBoxes.csproj", "{C5A9F891-A2B3-44C5-A328-8FCDC82E6FDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converter", "Converter\Converter.csproj", "{F3FB3A18-245A-4AF3-9A86-B5B588999D03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5A9F891-A2B3-44C5-A328-8FCDC82E6FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A9F891-A2B3-44C5-A328-8FCDC82E6FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A9F891-A2B3-44C5-A328-8FCDC82E6FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A9F891-A2B3-44C5-A328-8FCDC82E6FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3FB3A18-245A-4AF3-9A86-B5B588999D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FB3A18-245A-4AF3-9A86-B5B588999D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FB3A18-245A-4AF3-9A86-B5B588999D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FB3A18-245A-4AF3-9A86-B5B588999D03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {787A18B5-E6E5-426D-A7FB-99C55A116E0A}
+	EndGlobalSection
+EndGlobal
