@@ -1,0 +1,14 @@
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\StaticClasses\04.BusTicket\bin\Debug\net8.0\04.BusTicket.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\StaticClasses\04.BusTicket\bin\Debug\net8.0\04.BusTicket.deps.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\StaticClasses\04.BusTicket\bin\Debug\net8.0\04.BusTicket.runtimeconfig.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\StaticClasses\04.BusTicket\bin\Debug\net8.0\04.BusTicket.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\StaticClasses\04.BusTicket\bin\Debug\net8.0\04.BusTicket.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\StaticClasses\04.BusTicket\obj\Debug\net8.0\04.BusTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\StaticClasses\04.BusTicket\obj\Debug\net8.0\04.BusTicket.AssemblyInfoInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\StaticClasses\04.BusTicket\obj\Debug\net8.0\04.BusTicket.AssemblyInfo.cs
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\StaticClasses\04.BusTicket\obj\Debug\net8.0\04.BusTicket.csproj.CoreCompileInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\StaticClasses\04.BusTicket\obj\Debug\net8.0\04.BusTicket.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\StaticClasses\04.BusTicket\obj\Debug\net8.0\refint\04.BusTicket.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\StaticClasses\04.BusTicket\obj\Debug\net8.0\04.BusTicket.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\StaticClasses\04.BusTicket\obj\Debug\net8.0\04.BusTicket.genruntimeconfig.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\StaticClasses\04.BusTicket\obj\Debug\net8.0\ref\04.BusTicket.dll
