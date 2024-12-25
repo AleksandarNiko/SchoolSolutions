@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\02.Storage\bin\Debug\net8.0\02.Storage.exe
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\02.Storage\bin\Debug\net8.0\02.Storage.deps.json
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\02.Storage\bin\Debug\net8.0\02.Storage.runtimeconfig.json
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\02.Storage\bin\Debug\net8.0\02.Storage.dll
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\02.Storage\bin\Debug\net8.0\02.Storage.pdb
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\02.Storage\obj\Debug\net8.0\02.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\02.Storage\obj\Debug\net8.0\02.Storage.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\02.Storage\obj\Debug\net8.0\02.Storage.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\02.Storage\obj\Debug\net8.0\02.Storage.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\02.Storage\obj\Debug\net8.0\02.Storage.dll
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\02.Storage\obj\Debug\net8.0\refint\02.Storage.dll
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\02.Storage\obj\Debug\net8.0\02.Storage.pdb
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\02.Storage\obj\Debug\net8.0\02.Storage.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\02.Storage\obj\Debug\net8.0\ref\02.Storage.dll

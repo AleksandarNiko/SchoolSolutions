@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\01.Person\bin\Debug\net8.0\01.Person.exe
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\01.Person\bin\Debug\net8.0\01.Person.deps.json
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\01.Person\bin\Debug\net8.0\01.Person.runtimeconfig.json
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\01.Person\bin\Debug\net8.0\01.Person.dll
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\01.Person\bin\Debug\net8.0\01.Person.pdb
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\01.Person\obj\Debug\net8.0\01.Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\01.Person\obj\Debug\net8.0\01.Person.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\01.Person\obj\Debug\net8.0\01.Person.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\01.Person\obj\Debug\net8.0\01.Person.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\01.Person\obj\Debug\net8.0\01.Person.dll
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\01.Person\obj\Debug\net8.0\refint\01.Person.dll
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\01.Person\obj\Debug\net8.0\01.Person.pdb
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\01.Person\obj\Debug\net8.0\01.Person.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\CopyConstructor\01.Person\obj\Debug\net8.0\ref\01.Person.dll
