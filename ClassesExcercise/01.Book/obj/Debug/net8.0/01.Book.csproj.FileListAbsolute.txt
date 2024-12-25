@@ -1,0 +1,14 @@
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ClassesExcercise\01.Book\bin\Debug\net8.0\01.Book.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ClassesExcercise\01.Book\bin\Debug\net8.0\01.Book.deps.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ClassesExcercise\01.Book\bin\Debug\net8.0\01.Book.runtimeconfig.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ClassesExcercise\01.Book\bin\Debug\net8.0\01.Book.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ClassesExcercise\01.Book\bin\Debug\net8.0\01.Book.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ClassesExcercise\01.Book\obj\Debug\net8.0\01.Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ClassesExcercise\01.Book\obj\Debug\net8.0\01.Book.AssemblyInfoInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ClassesExcercise\01.Book\obj\Debug\net8.0\01.Book.AssemblyInfo.cs
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ClassesExcercise\01.Book\obj\Debug\net8.0\01.Book.csproj.CoreCompileInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ClassesExcercise\01.Book\obj\Debug\net8.0\01.Book.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ClassesExcercise\01.Book\obj\Debug\net8.0\refint\01.Book.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ClassesExcercise\01.Book\obj\Debug\net8.0\01.Book.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ClassesExcercise\01.Book\obj\Debug\net8.0\01.Book.genruntimeconfig.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ClassesExcercise\01.Book\obj\Debug\net8.0\ref\01.Book.dll
