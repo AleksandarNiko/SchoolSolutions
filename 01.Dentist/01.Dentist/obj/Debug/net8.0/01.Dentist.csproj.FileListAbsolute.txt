@@ -1,0 +1,14 @@
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\01.Dentist\01.Dentist\bin\Debug\net8.0\01.Dentist.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\01.Dentist\01.Dentist\bin\Debug\net8.0\01.Dentist.deps.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\01.Dentist\01.Dentist\bin\Debug\net8.0\01.Dentist.runtimeconfig.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\01.Dentist\01.Dentist\bin\Debug\net8.0\01.Dentist.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\01.Dentist\01.Dentist\bin\Debug\net8.0\01.Dentist.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\01.Dentist\01.Dentist\obj\Debug\net8.0\01.Dentist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\01.Dentist\01.Dentist\obj\Debug\net8.0\01.Dentist.AssemblyInfoInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\01.Dentist\01.Dentist\obj\Debug\net8.0\01.Dentist.AssemblyInfo.cs
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\01.Dentist\01.Dentist\obj\Debug\net8.0\01.Dentist.csproj.CoreCompileInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\01.Dentist\01.Dentist\obj\Debug\net8.0\01.Dentist.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\01.Dentist\01.Dentist\obj\Debug\net8.0\refint\01.Dentist.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\01.Dentist\01.Dentist\obj\Debug\net8.0\01.Dentist.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\01.Dentist\01.Dentist\obj\Debug\net8.0\01.Dentist.genruntimeconfig.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\01.Dentist\01.Dentist\obj\Debug\net8.0\ref\01.Dentist.dll
