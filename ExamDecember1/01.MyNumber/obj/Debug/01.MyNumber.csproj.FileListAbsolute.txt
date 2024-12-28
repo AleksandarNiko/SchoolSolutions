@@ -1,0 +1,10 @@
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExamDecember1\01.MyNumber\bin\Debug\01.MyNumber.exe.config
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExamDecember1\01.MyNumber\bin\Debug\01.MyNumber.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExamDecember1\01.MyNumber\bin\Debug\01.MyNumber.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExamDecember1\01.MyNumber\obj\Debug\01.MyNumber.csproj.AssemblyReference.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExamDecember1\01.MyNumber\obj\Debug\_01.MyNumber.Form1.resources
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExamDecember1\01.MyNumber\obj\Debug\_01.MyNumber.Properties.Resources.resources
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExamDecember1\01.MyNumber\obj\Debug\01.MyNumber.csproj.GenerateResource.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExamDecember1\01.MyNumber\obj\Debug\01.MyNumber.csproj.CoreCompileInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExamDecember1\01.MyNumber\obj\Debug\01.MyNumber.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExamDecember1\01.MyNumber\obj\Debug\01.MyNumber.pdb
