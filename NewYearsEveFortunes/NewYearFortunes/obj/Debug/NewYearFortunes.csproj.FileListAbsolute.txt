@@ -1,0 +1,10 @@
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\NewYearsEveFortunes\NewYearFortunes\bin\Debug\NewYearFortunes.exe.config
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\NewYearsEveFortunes\NewYearFortunes\bin\Debug\NewYearFortunes.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\NewYearsEveFortunes\NewYearFortunes\bin\Debug\NewYearFortunes.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\NewYearsEveFortunes\NewYearFortunes\obj\Debug\NewYearFortunes.csproj.AssemblyReference.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\NewYearsEveFortunes\NewYearFortunes\obj\Debug\NewYearFortunes.Form1.resources
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\NewYearsEveFortunes\NewYearFortunes\obj\Debug\NewYearFortunes.Properties.Resources.resources
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\NewYearsEveFortunes\NewYearFortunes\obj\Debug\NewYearFortunes.csproj.GenerateResource.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\NewYearsEveFortunes\NewYearFortunes\obj\Debug\NewYearFortunes.csproj.CoreCompileInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\NewYearsEveFortunes\NewYearFortunes\obj\Debug\NewYearFortunes.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\NewYearsEveFortunes\NewYearFortunes\obj\Debug\NewYearFortunes.pdb
