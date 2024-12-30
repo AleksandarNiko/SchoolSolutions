@@ -1,0 +1,10 @@
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TabControlla\02.City\obj\Debug\02.City.csproj.AssemblyReference.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TabControlla\02.City\obj\Debug\_02.City.Form1.resources
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TabControlla\02.City\obj\Debug\_02.City.Properties.Resources.resources
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TabControlla\02.City\obj\Debug\02.City.csproj.GenerateResource.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TabControlla\02.City\obj\Debug\02.City.csproj.CoreCompileInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TabControlla\02.City\bin\Debug\02.City.exe.config
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TabControlla\02.City\bin\Debug\02.City.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TabControlla\02.City\bin\Debug\02.City.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TabControlla\02.City\obj\Debug\02.City.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TabControlla\02.City\obj\Debug\02.City.pdb
