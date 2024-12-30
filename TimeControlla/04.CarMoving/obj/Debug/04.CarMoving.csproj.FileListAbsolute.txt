@@ -1,0 +1,10 @@
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TimeControlla\04.CarMoving\obj\Debug\04.CarMoving.csproj.AssemblyReference.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TimeControlla\04.CarMoving\obj\Debug\_04.CarMoving.Form1.resources
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TimeControlla\04.CarMoving\obj\Debug\_04.CarMoving.Properties.Resources.resources
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TimeControlla\04.CarMoving\obj\Debug\04.CarMoving.csproj.GenerateResource.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TimeControlla\04.CarMoving\obj\Debug\04.CarMoving.csproj.CoreCompileInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TimeControlla\04.CarMoving\bin\Debug\04.CarMoving.exe.config
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TimeControlla\04.CarMoving\bin\Debug\04.CarMoving.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TimeControlla\04.CarMoving\bin\Debug\04.CarMoving.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TimeControlla\04.CarMoving\obj\Debug\04.CarMoving.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TimeControlla\04.CarMoving\obj\Debug\04.CarMoving.pdb

@@ -1,0 +1,10 @@
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TimeControlla\03.MultiplicationTable\bin\Debug\03.MultiplicationTable.exe.config
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TimeControlla\03.MultiplicationTable\bin\Debug\03.MultiplicationTable.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TimeControlla\03.MultiplicationTable\bin\Debug\03.MultiplicationTable.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TimeControlla\03.MultiplicationTable\obj\Debug\03.MultiplicationTable.csproj.AssemblyReference.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TimeControlla\03.MultiplicationTable\obj\Debug\_03.MultiplicationTable.Properties.Resources.resources
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TimeControlla\03.MultiplicationTable\obj\Debug\03.MultiplicationTable.csproj.GenerateResource.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TimeControlla\03.MultiplicationTable\obj\Debug\03.MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TimeControlla\03.MultiplicationTable\obj\Debug\03.MultiplicationTable.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TimeControlla\03.MultiplicationTable\obj\Debug\03.MultiplicationTable.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\TimeControlla\03.MultiplicationTable\obj\Debug\_03.MultiplicationTable.Form1.resources
