@@ -1,0 +1,14 @@
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\06.SmartDevicesSystem\bin\Debug\net8.0\06.SmartDevicesSystem.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\06.SmartDevicesSystem\bin\Debug\net8.0\06.SmartDevicesSystem.deps.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\06.SmartDevicesSystem\bin\Debug\net8.0\06.SmartDevicesSystem.runtimeconfig.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\06.SmartDevicesSystem\bin\Debug\net8.0\06.SmartDevicesSystem.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\06.SmartDevicesSystem\bin\Debug\net8.0\06.SmartDevicesSystem.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\06.SmartDevicesSystem\obj\Debug\net8.0\06.SmartDevicesSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\06.SmartDevicesSystem\obj\Debug\net8.0\06.SmartDevicesSystem.AssemblyInfoInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\06.SmartDevicesSystem\obj\Debug\net8.0\06.SmartDevicesSystem.AssemblyInfo.cs
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\06.SmartDevicesSystem\obj\Debug\net8.0\06.SmartDevicesSystem.csproj.CoreCompileInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\06.SmartDevicesSystem\obj\Debug\net8.0\06.SmartDevicesSystem.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\06.SmartDevicesSystem\obj\Debug\net8.0\refint\06.SmartDevicesSystem.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\06.SmartDevicesSystem\obj\Debug\net8.0\06.SmartDevicesSystem.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\06.SmartDevicesSystem\obj\Debug\net8.0\06.SmartDevicesSystem.genruntimeconfig.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\06.SmartDevicesSystem\obj\Debug\net8.0\ref\06.SmartDevicesSystem.dll

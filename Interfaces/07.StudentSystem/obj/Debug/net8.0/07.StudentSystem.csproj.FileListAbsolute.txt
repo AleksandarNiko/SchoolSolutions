@@ -1,0 +1,14 @@
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\07.StudentSystem\bin\Debug\net8.0\07.StudentSystem.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\07.StudentSystem\bin\Debug\net8.0\07.StudentSystem.deps.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\07.StudentSystem\bin\Debug\net8.0\07.StudentSystem.runtimeconfig.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\07.StudentSystem\bin\Debug\net8.0\07.StudentSystem.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\07.StudentSystem\bin\Debug\net8.0\07.StudentSystem.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\07.StudentSystem\obj\Debug\net8.0\07.StudentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\07.StudentSystem\obj\Debug\net8.0\07.StudentSystem.AssemblyInfoInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\07.StudentSystem\obj\Debug\net8.0\07.StudentSystem.AssemblyInfo.cs
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\07.StudentSystem\obj\Debug\net8.0\07.StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\07.StudentSystem\obj\Debug\net8.0\07.StudentSystem.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\07.StudentSystem\obj\Debug\net8.0\refint\07.StudentSystem.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\07.StudentSystem\obj\Debug\net8.0\07.StudentSystem.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\07.StudentSystem\obj\Debug\net8.0\07.StudentSystem.genruntimeconfig.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Interfaces\07.StudentSystem\obj\Debug\net8.0\ref\07.StudentSystem.dll
