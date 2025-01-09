@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Desktop\schoolWork for 4.10\schoolWork\05.average\bin\Debug\05.average.exe.config
+C:\Users\Lenovo\Desktop\schoolWork for 4.10\schoolWork\05.average\bin\Debug\05.average.exe
+C:\Users\Lenovo\Desktop\schoolWork for 4.10\schoolWork\05.average\bin\Debug\05.average.pdb
+C:\Users\Lenovo\Desktop\schoolWork for 4.10\schoolWork\05.average\obj\Debug\05.average.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\schoolWork for 4.10\schoolWork\05.average\obj\Debug\05.average.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\schoolWork for 4.10\schoolWork\05.average\obj\Debug\05.average.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\schoolWork for 4.10\schoolWork\05.average\obj\Debug\05.average.exe
+C:\Users\Lenovo\Desktop\schoolWork for 4.10\schoolWork\05.average\obj\Debug\05.average.pdb
