@@ -1,0 +1,8 @@
+ Диалогова кутия в c#
+1.Същност на диалоговата кутия за вход-inputBox
+2.Начин на използване
+а) ТОВА НЕ Е КОНТРОЛА!
+
+*Добавяне на препратка към Visual Basic
+*Add using Microsoft.VisualBasic
+*Interaction.InputBox("Message","title")
