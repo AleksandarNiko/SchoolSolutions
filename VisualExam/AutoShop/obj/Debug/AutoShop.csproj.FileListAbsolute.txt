@@ -1,0 +1,10 @@
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\VisualExam\AutoShop\bin\Debug\AutoShop.exe.config
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\VisualExam\AutoShop\bin\Debug\AutoShop.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\VisualExam\AutoShop\bin\Debug\AutoShop.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\VisualExam\AutoShop\obj\Debug\AutoShop.csproj.AssemblyReference.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\VisualExam\AutoShop\obj\Debug\AutoShop.Properties.Resources.resources
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\VisualExam\AutoShop\obj\Debug\AutoShop.csproj.GenerateResource.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\VisualExam\AutoShop\obj\Debug\AutoShop.csproj.CoreCompileInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\VisualExam\AutoShop\obj\Debug\AutoShop.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\VisualExam\AutoShop\obj\Debug\AutoShop.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\VisualExam\AutoShop\obj\Debug\AutoShop.Form1.resources
