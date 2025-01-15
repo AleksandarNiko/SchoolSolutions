@@ -1,0 +1,14 @@
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\01.NumsException\bin\Debug\net8.0\01.NumsException.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\01.NumsException\bin\Debug\net8.0\01.NumsException.deps.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\01.NumsException\bin\Debug\net8.0\01.NumsException.runtimeconfig.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\01.NumsException\bin\Debug\net8.0\01.NumsException.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\01.NumsException\bin\Debug\net8.0\01.NumsException.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\01.NumsException\obj\Debug\net8.0\01.NumsException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\01.NumsException\obj\Debug\net8.0\01.NumsException.AssemblyInfoInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\01.NumsException\obj\Debug\net8.0\01.NumsException.AssemblyInfo.cs
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\01.NumsException\obj\Debug\net8.0\01.NumsException.csproj.CoreCompileInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\01.NumsException\obj\Debug\net8.0\01.NumsException.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\01.NumsException\obj\Debug\net8.0\refint\01.NumsException.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\01.NumsException\obj\Debug\net8.0\01.NumsException.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\01.NumsException\obj\Debug\net8.0\01.NumsException.genruntimeconfig.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\01.NumsException\obj\Debug\net8.0\ref\01.NumsException.dll

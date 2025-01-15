@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\02.NumArray\bin\Debug\net8.0\02.NumArray.exe
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\02.NumArray\bin\Debug\net8.0\02.NumArray.deps.json
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\02.NumArray\bin\Debug\net8.0\02.NumArray.runtimeconfig.json
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\02.NumArray\bin\Debug\net8.0\02.NumArray.dll
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\02.NumArray\bin\Debug\net8.0\02.NumArray.pdb
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\02.NumArray\obj\Debug\net8.0\02.NumArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\02.NumArray\obj\Debug\net8.0\02.NumArray.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\02.NumArray\obj\Debug\net8.0\02.NumArray.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\02.NumArray\obj\Debug\net8.0\02.NumArray.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\02.NumArray\obj\Debug\net8.0\02.NumArray.dll
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\02.NumArray\obj\Debug\net8.0\refint\02.NumArray.dll
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\02.NumArray\obj\Debug\net8.0\02.NumArray.pdb
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\02.NumArray\obj\Debug\net8.0\02.NumArray.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\02.NumArray\obj\Debug\net8.0\ref\02.NumArray.dll

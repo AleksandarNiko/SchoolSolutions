@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\03.Grades\bin\Debug\net8.0\03.Grades.exe
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\03.Grades\bin\Debug\net8.0\03.Grades.deps.json
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\03.Grades\bin\Debug\net8.0\03.Grades.runtimeconfig.json
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\03.Grades\bin\Debug\net8.0\03.Grades.dll
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\03.Grades\bin\Debug\net8.0\03.Grades.pdb
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\03.Grades\obj\Debug\net8.0\03.Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\03.Grades\obj\Debug\net8.0\03.Grades.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\03.Grades\obj\Debug\net8.0\03.Grades.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\03.Grades\obj\Debug\net8.0\03.Grades.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\03.Grades\obj\Debug\net8.0\03.Grades.dll
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\03.Grades\obj\Debug\net8.0\refint\03.Grades.dll
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\03.Grades\obj\Debug\net8.0\03.Grades.pdb
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\03.Grades\obj\Debug\net8.0\03.Grades.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\ExceptionsLesson\03.Grades\obj\Debug\net8.0\ref\03.Grades.dll
