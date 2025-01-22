@@ -1,0 +1,14 @@
+D:\schoolWork\TeamProject\01.Zoo\bin\Debug\net8.0\01.Zoo.exe
+D:\schoolWork\TeamProject\01.Zoo\bin\Debug\net8.0\01.Zoo.deps.json
+D:\schoolWork\TeamProject\01.Zoo\bin\Debug\net8.0\01.Zoo.runtimeconfig.json
+D:\schoolWork\TeamProject\01.Zoo\bin\Debug\net8.0\01.Zoo.dll
+D:\schoolWork\TeamProject\01.Zoo\bin\Debug\net8.0\01.Zoo.pdb
+D:\schoolWork\TeamProject\01.Zoo\obj\Debug\net8.0\01.Zoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\schoolWork\TeamProject\01.Zoo\obj\Debug\net8.0\01.Zoo.AssemblyInfoInputs.cache
+D:\schoolWork\TeamProject\01.Zoo\obj\Debug\net8.0\01.Zoo.AssemblyInfo.cs
+D:\schoolWork\TeamProject\01.Zoo\obj\Debug\net8.0\01.Zoo.csproj.CoreCompileInputs.cache
+D:\schoolWork\TeamProject\01.Zoo\obj\Debug\net8.0\01.Zoo.dll
+D:\schoolWork\TeamProject\01.Zoo\obj\Debug\net8.0\refint\01.Zoo.dll
+D:\schoolWork\TeamProject\01.Zoo\obj\Debug\net8.0\01.Zoo.pdb
+D:\schoolWork\TeamProject\01.Zoo\obj\Debug\net8.0\01.Zoo.genruntimeconfig.cache
+D:\schoolWork\TeamProject\01.Zoo\obj\Debug\net8.0\ref\01.Zoo.dll
