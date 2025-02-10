@@ -1,0 +1,25 @@
+            Стандартни диалози за файлове
+1.Същност
+
+2.Стандартни диалози в c#
+-ColorDialog
+-FolderBrowserDialog
+-SaveFileDialog
+-PrintDialog
+
+3.Общо използване на стандартните диалози
+1)Добавяне на диалог
+2)Инициализиране
+3)Показване на диалога и проверка на върнатия резултат
+
+4.Добавяне на диалог към форма
+Toolbox->Dialogs
+*Показване на диалог:
+ShowDialog, връща стойност дали потребителят е цъкнал ОК, Cancel или друг бутон
+
+5.Работа с OpenFileDialog и SaveFileDialog
+using System.IO;
+
+6.Четене от файл
+StreamReader
+StreamWriter
