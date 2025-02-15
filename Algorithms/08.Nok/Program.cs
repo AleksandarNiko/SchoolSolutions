@@ -8,6 +8,7 @@
             int a = int.Parse(Console.ReadLine());
             Console.Write("Enter second number: ");
             int b = int.Parse(Console.ReadLine());
+
             int a1 = a;
             int b1 = b;
 

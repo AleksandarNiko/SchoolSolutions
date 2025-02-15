@@ -9,6 +9,13 @@
             Console.Write("Enter second number: ");
             int b = int.Parse(Console.ReadLine());
 
+            Nod(ref a, ref b);
+
+            Console.WriteLine("The greatest common divisor is: " + b);
+        }
+
+        static void Nod(ref  int a, ref int b)
+        {
             while (a != b)
             {
                 if (a > b)
@@ -20,7 +27,6 @@
                     b -= a;
                 }
             }
-            Console.WriteLine("The greatest common divisor is: " + a);
         }
     }
 }

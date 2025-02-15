@@ -1,9 +1,4 @@
-﻿
-//Определяне на едно число ПРОСТО ЛИ Е
-
-using System;
-
-namespace PrimeNumber
+﻿namespace PrimeNumber
 {
     class Program
     {
@@ -11,6 +6,20 @@ namespace PrimeNumber
         {
             Console.Write("Enter a number: ");
             int number = int.Parse(Console.ReadLine());
+            bool isPrime = IsPrime(number);
+
+            if (isPrime==true)
+            {
+                Console.WriteLine("The number is prime.");
+            }
+            else
+            {
+                Console.WriteLine("The number is not prime.");
+            }
+        }
+
+        static bool IsPrime(int number)
+        {
             bool isPrime = true;
             if (number < 2)
             {
@@ -27,14 +36,8 @@ namespace PrimeNumber
                     }
                 }
             }
-            if (isPrime)
-            {
-                Console.WriteLine("The number is prime.");
-            }
-            else
-            {
-                Console.WriteLine("The number is not prime.");
-            }
+
+            return isPrime;
         }
     }
 }

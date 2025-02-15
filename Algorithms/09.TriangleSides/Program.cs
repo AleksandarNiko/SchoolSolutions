@@ -1,10 +1,4 @@
-﻿
-
-//Алгоритъм за определяне дали три числа могат да бъдат страни на триъгълник
-
-using System;
-
-namespace TriangleSides
+﻿namespace TriangleSides
 {
     class Program
     {

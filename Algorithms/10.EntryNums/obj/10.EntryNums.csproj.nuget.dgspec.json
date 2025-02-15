@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\OneDrive - Министерство на образованието и науката\\Desktop\\AleksandarInfo\\Algorithms\\09.TriangleSides\\09.TriangleSides.csproj": {}
+    "C:\\Users\\Lenovo\\OneDrive - Министерство на образованието и науката\\Desktop\\AleksandarInfo\\Algorithms\\10.EntryNums\\10.EntryNums.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\OneDrive - Министерство на образованието и науката\\Desktop\\AleksandarInfo\\Algorithms\\09.TriangleSides\\09.TriangleSides.csproj": {
+    "C:\\Users\\Lenovo\\OneDrive - Министерство на образованието и науката\\Desktop\\AleksandarInfo\\Algorithms\\10.EntryNums\\10.EntryNums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive - Министерство на образованието и науката\\Desktop\\AleksandarInfo\\Algorithms\\09.TriangleSides\\09.TriangleSides.csproj",
-        "projectName": "09.TriangleSides",
-        "projectPath": "C:\\Users\\Lenovo\\OneDrive - Министерство на образованието и науката\\Desktop\\AleksandarInfo\\Algorithms\\09.TriangleSides\\09.TriangleSides.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive - Министерство на образованието и науката\\Desktop\\AleksandarInfo\\Algorithms\\10.EntryNums\\10.EntryNums.csproj",
+        "projectName": "10.EntryNums",
+        "projectPath": "C:\\Users\\Lenovo\\OneDrive - Министерство на образованието и науката\\Desktop\\AleksandarInfo\\Algorithms\\10.EntryNums\\10.EntryNums.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\OneDrive - Министерство на образованието и науката\\Desktop\\AleksandarInfo\\Algorithms\\09.TriangleSides\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\OneDrive - Министерство на образованието и науката\\Desktop\\AleksandarInfo\\Algorithms\\10.EntryNums\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

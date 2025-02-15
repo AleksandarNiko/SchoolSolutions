@@ -3,23 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.PrimeNumber", "01.PrimeNumber\01.PrimeNumber.csproj", "{722A59FF-44BE-41BF-96ED-CB144280EF3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.PrimeNumber", "01.PrimeNumber\01.PrimeNumber.csproj", "{722A59FF-44BE-41BF-96ED-CB144280EF3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TheDecisionOfEratosthenes", "02.TheDecisionOfEratosthenes\02.TheDecisionOfEratosthenes.csproj", "{643929F6-C263-4C2F-B6DC-6628264EE95C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.TheDecisionOfEratosthenes", "02.TheDecisionOfEratosthenes\02.TheDecisionOfEratosthenes.csproj", "{643929F6-C263-4C2F-B6DC-6628264EE95C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Decomposition", "03.Decomposition\03.Decomposition.csproj", "{28E1AF1D-6E1E-4136-BD56-FFF12A6A9A6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Decomposition", "03.Decomposition\03.Decomposition.csproj", "{28E1AF1D-6E1E-4136-BD56-FFF12A6A9A6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.GetDigits", "04.GetDigits\04.GetDigits.csproj", "{A709227E-9499-46EF-A58B-2B7265F57696}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.GetDigits", "04.GetDigits\04.GetDigits.csproj", "{A709227E-9499-46EF-A58B-2B7265F57696}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ReverseNumber", "05.ReverseNumber\05.ReverseNumber.csproj", "{5ABCB2BA-1A0E-4C1F-AA5A-0D994031AC9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.ReverseNumber", "05.ReverseNumber\05.ReverseNumber.csproj", "{5ABCB2BA-1A0E-4C1F-AA5A-0D994031AC9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.NodEuclidAlgorithm1", "06.NodEuclidAlgorithm1\06.NodEuclidAlgorithm1.csproj", "{4D6FBFAB-8148-4F8F-8BD7-1F999B10D137}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.NodEuclidAlgorithm1", "06.NodEuclidAlgorithm1\06.NodEuclidAlgorithm1.csproj", "{4D6FBFAB-8148-4F8F-8BD7-1F999B10D137}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.NodEuclidAlgorithm2", "NodEuclidAlgorithm2\07.NodEuclidAlgorithm2.csproj", "{BE7E263D-FEF6-4209-A734-288B3D7A552B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.NodEuclidAlgorithm2", "NodEuclidAlgorithm2\07.NodEuclidAlgorithm2.csproj", "{BE7E263D-FEF6-4209-A734-288B3D7A552B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Nok", "08.Nok\08.Nok.csproj", "{3CCED534-4F70-4F01-9440-4D1D23168849}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.Nok", "08.Nok\08.Nok.csproj", "{3CCED534-4F70-4F01-9440-4D1D23168849}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.TriangleSides", "09.TriangleSides\09.TriangleSides.csproj", "{16A790C9-0189-4398-BF28-D492C02DA5D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.TriangleSides", "09.TriangleSides\09.TriangleSides.csproj", "{16A790C9-0189-4398-BF28-D492C02DA5D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.EntryNums", "10.EntryNums\10.EntryNums.csproj", "{53CE8CC2-2E5F-49CE-BCFC-6270A9108019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.TenRandomNums", "11.TenRandomNums\11.TenRandomNums.csproj", "{1E7AA073-9441-40AF-B1F6-018EA43486FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{16A790C9-0189-4398-BF28-D492C02DA5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16A790C9-0189-4398-BF28-D492C02DA5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16A790C9-0189-4398-BF28-D492C02DA5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53CE8CC2-2E5F-49CE-BCFC-6270A9108019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CE8CC2-2E5F-49CE-BCFC-6270A9108019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CE8CC2-2E5F-49CE-BCFC-6270A9108019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CE8CC2-2E5F-49CE-BCFC-6270A9108019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E7AA073-9441-40AF-B1F6-018EA43486FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7AA073-9441-40AF-B1F6-018EA43486FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7AA073-9441-40AF-B1F6-018EA43486FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7AA073-9441-40AF-B1F6-018EA43486FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

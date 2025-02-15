@@ -6,11 +6,15 @@
         {
             Console.Write("Enter a number: ");
             int number = int.Parse(Console.ReadLine());
-            while (number > 0)
+            ReturnDigits(number);
+        }
+
+        private static void ReturnDigits(int number)
+        {
+            string numberAsString = number.ToString();
+            for (int i = 0; i < numberAsString.Length; i++)
             {
-                int digit = number % 10;
-                Console.Write(digit + " ");
-                number /= 10;
+                Console.Write(numberAsString[i] + " ");
             }
             Console.WriteLine();
         }
