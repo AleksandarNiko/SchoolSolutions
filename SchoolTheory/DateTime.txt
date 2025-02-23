@@ -1,0 +1,6 @@
+                      Тип на данните, DateTime
+1.Декларация на DateTime
+2.Въвеждане на стойност на променливата от клавиатурата
+dpr=DateTime.ParseExact(textBox1.Text,"dd/MM/yyy,null);
+3.Периоди от време(TimeSpan)
+TimeSpan t=dn-dpr;
