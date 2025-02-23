@@ -1,0 +1,14 @@
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Recursion\06.SequenceOfLetters\bin\Debug\net8.0\06.SequenceOfLetters.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Recursion\06.SequenceOfLetters\bin\Debug\net8.0\06.SequenceOfLetters.deps.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Recursion\06.SequenceOfLetters\bin\Debug\net8.0\06.SequenceOfLetters.runtimeconfig.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Recursion\06.SequenceOfLetters\bin\Debug\net8.0\06.SequenceOfLetters.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Recursion\06.SequenceOfLetters\bin\Debug\net8.0\06.SequenceOfLetters.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Recursion\06.SequenceOfLetters\obj\Debug\net8.0\06.SequenceOfLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Recursion\06.SequenceOfLetters\obj\Debug\net8.0\06.SequenceOfLetters.AssemblyInfoInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Recursion\06.SequenceOfLetters\obj\Debug\net8.0\06.SequenceOfLetters.AssemblyInfo.cs
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Recursion\06.SequenceOfLetters\obj\Debug\net8.0\06.SequenceOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Recursion\06.SequenceOfLetters\obj\Debug\net8.0\06.SequenceOfLetters.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Recursion\06.SequenceOfLetters\obj\Debug\net8.0\refint\06.SequenceOfLetters.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Recursion\06.SequenceOfLetters\obj\Debug\net8.0\06.SequenceOfLetters.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Recursion\06.SequenceOfLetters\obj\Debug\net8.0\06.SequenceOfLetters.genruntimeconfig.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\Recursion\06.SequenceOfLetters\obj\Debug\net8.0\ref\06.SequenceOfLetters.dll
