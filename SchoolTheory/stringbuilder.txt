@@ -1,0 +1,9 @@
+             StringBuilder
+1.Недостатъци на string
+-garbage collector	
+2.StringBuilder
+-създава масив от символи, което позволява информацията в него да се променя
+-промените се случват в една и съща аст от паметта
+Декларация: StringBuilder text=new StringBuilder();
+3.Методи на класа
+Append					
