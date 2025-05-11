@@ -1,0 +1,14 @@
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\SortedDictionary\05.Students\bin\Debug\net8.0\05.Students.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\SortedDictionary\05.Students\bin\Debug\net8.0\05.Students.deps.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\SortedDictionary\05.Students\bin\Debug\net8.0\05.Students.runtimeconfig.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\SortedDictionary\05.Students\bin\Debug\net8.0\05.Students.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\SortedDictionary\05.Students\bin\Debug\net8.0\05.Students.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\SortedDictionary\05.Students\obj\Debug\net8.0\05.Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\SortedDictionary\05.Students\obj\Debug\net8.0\05.Students.AssemblyInfoInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\SortedDictionary\05.Students\obj\Debug\net8.0\05.Students.AssemblyInfo.cs
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\SortedDictionary\05.Students\obj\Debug\net8.0\05.Students.csproj.CoreCompileInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\SortedDictionary\05.Students\obj\Debug\net8.0\05.Students.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\SortedDictionary\05.Students\obj\Debug\net8.0\refint\05.Students.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\SortedDictionary\05.Students\obj\Debug\net8.0\05.Students.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\SortedDictionary\05.Students\obj\Debug\net8.0\05.Students.genruntimeconfig.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\SortedDictionary\05.Students\obj\Debug\net8.0\ref\05.Students.dll
