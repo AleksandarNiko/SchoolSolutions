@@ -1,0 +1,14 @@
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\FilesN5\01.Numerology\bin\Debug\net8.0\01.Numerology.exe
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\FilesN5\01.Numerology\bin\Debug\net8.0\01.Numerology.deps.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\FilesN5\01.Numerology\bin\Debug\net8.0\01.Numerology.runtimeconfig.json
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\FilesN5\01.Numerology\bin\Debug\net8.0\01.Numerology.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\FilesN5\01.Numerology\bin\Debug\net8.0\01.Numerology.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\FilesN5\01.Numerology\obj\Debug\net8.0\01.Numerology.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\FilesN5\01.Numerology\obj\Debug\net8.0\01.Numerology.AssemblyInfoInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\FilesN5\01.Numerology\obj\Debug\net8.0\01.Numerology.AssemblyInfo.cs
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\FilesN5\01.Numerology\obj\Debug\net8.0\01.Numerology.csproj.CoreCompileInputs.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\FilesN5\01.Numerology\obj\Debug\net8.0\01.Numerology.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\FilesN5\01.Numerology\obj\Debug\net8.0\refint\01.Numerology.dll
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\FilesN5\01.Numerology\obj\Debug\net8.0\01.Numerology.pdb
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\FilesN5\01.Numerology\obj\Debug\net8.0\01.Numerology.genruntimeconfig.cache
+C:\Users\11v_1_7\OneDrive - Министерство на образованието и науката\Desktop\AleksandarInfo\FilesN5\01.Numerology\obj\Debug\net8.0\ref\01.Numerology.dll
