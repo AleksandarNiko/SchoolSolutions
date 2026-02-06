@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=tab, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        .firstTable{
+            width: 50%;
+            border: 2px solid black;
+
+        }
+        th,tr,td{
+            border: 2px solid black;
+        }
+
+        .secondTable{
+            border: 2px solid black;
+            width: 50%;
+        }
+
+        .thirdTable{
+            border: 2px solid black;
+            width: 50%; 
+            border-collapse: collapse;     
+        }
+         .fourthTable{
+            border: 2px solid black;
+            width: 50%; 
+            border-collapse: collapse;          
+        }
+
+        .fifthTable{
+            border: 2px solid black;
+            width: 50%; 
+            border-collapse: collapse;
+        }
+
+        .fifthTable .firstAgeRange{
+            text-align: left;
+        }
+
+        .fifthTable .secondAgeRange{
+            text-align: left;
+        }
+        
+        .fifthTable .thirdAgeRange{
+            text-align: left;
+        }
+
+        .seventhTable{
+            border: 2px solid black;
+            width: 50%; 
+            border-collapse: collapse;
+        }
+
+        .eightTable{
+            border: 2px solid black;
+            width: 50%; 
+            border-collapse: collapse;
+        }
+
+        /*ninth table*/
+
+        .ninthTable{
+            border: 2px solid black;
+            width: 50%; 
+            border-collapse: collapse;
+        }
+
+        .ninthTable .body {
+            background-color: #e9ecff;
+            font-family: Arial, sans-serif;
+        }
+
+        .ninthTable.table.main {
+            width: 700px;
+            margin: 20px auto;
+            background-color: #dfe3ff;
+            border-collapse: collapse;
+        }
+
+        .ninthTable.th.title {
+            font-size: 18px;
+            padding: 10px;
+            text-align: center;
+        }
+
+       .ninthTable.th.section {
+            background-color: #6b6eff;
+            color: white;
+            text-align: center;
+            padding: 5px;
+            font-weight: bold;
+        }
+
+        .ninthTable.td {
+            padding: 8px;
+        }
+
+        .ninthTable .input[type="text"] {
+            width: 95%;
+        }
+
+        .ninthTable .textarea {
+            width: 98%;
+            height: 150px;
+            resize: none;
+        }
+
+       .ninthTable .center {
+            text-align: center;
+        }
+
+        .ninthTable .buttons input {
+            padding: 5px 15px;
+            margin: 0 5px;
+        }
+
+    </style>
+</head>
+<body>
+    <table class = "firstTable">
+        <tr style="background-color:aquamarine;">
+            <td>Номер</td>
+            <td>Име</td>
+            <td>Фамилия</td>
+            <td>Клас</td>
+            <td>I срок</td>
+        </tr>
+
+        <tr style="background-color:whitesmoke;">
+            <td>1</td>
+            <td>Ани</td>
+            <td>Петрова</td>
+            <td>12д</td>
+            <td>4</td>
+        </tr>
+
+        <tr style="background-color:whitesmoke;">
+            <td>2</td>
+            <td>Алекс</td>
+            <td>Иванова</td>
+            <td>12д</td>
+            <td>6</td>
+        </tr>
+
+        <tr style="background-color:whitesmoke;">
+            <td>3</td>
+            <td>Александър</td>
+            <td>Димитров</td>
+            <td>12д</td>
+            <td>6</td>
+        </tr>
+    </table>
+
+</br>
+
+    <table class = "secondTable">
+        <tr style = "background-color: aquamarine;">
+            <th colspan="7">Учениците от 12д</th>
+            </tr>
+
+        <tr style="background-color:aquamarine;">
+            <th>Номер</th>
+            <th>Име</th>
+            <th>Фамилия</th>
+            <th>Клас</th>
+            <th>I срок</th>
+            <th>II срок</th>
+            <th>Годишна оценка</th>
+        </tr>
+
+        <tr style="background-color:whitesmoke;">
+            <td>1</td>
+            <td>Ани</td>
+            <td>Петрова</td>
+            <td>12д</td>
+            <td>4</td>
+            <td>6</td>
+            <td>5</td>
+        </tr>
+
+        <tr style="background-color:whitesmoke;">
+            <td>2</td>
+            <td>Алекс</td>
+            <td>Иванова</td>
+            <td>12д</td>
+            <td>6</td>
+            <td>4</td>
+            <td>5</td>
+        </tr>
+
+        <tr style="background-color:whitesmoke;">
+            <td>3</td>
+            <td>Александър</td>
+            <td>Димитров</td>
+            <td>12д</td>
+            <td>6</td>
+            <td>6</td>
+            <td>6</td>
+        </tr>
+    </table>
+
+</br>
+
+<table class = "thirdTable">
+
+    <tr style = "background-color:rgb(166, 197, 255)">
+      <th rowspan="2">Номер</th>
+      <th rowspan="2">Име</th>
+      <th rowspan="2">Фамилия</th>
+      <th rowspan="2">Клас</th>
+      <th colspan="7">Предмети</th>
+    </tr>
+        <tr style = "background-color:rgb(166, 197, 255)">
+      <th>Математика</th>
+      <th>Български език</th>
+      <th>История</th>
+      <th>Философия</th>
+      <th>Биология</th>
+      <th>География</th>
+      <th>Физика</th>
+    </tr>
+  
+    <tr>
+      <td>1</td>
+      <td>Ани</td>
+      <td>Петрова</td>
+      <td>10а</td>
+      <td>5</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>5</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Алекс</td>
+      <td>Иванова</td>
+      <td>10а</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Александър</td>
+      <td>Димитров</td>
+      <td>10а</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+    </tr>
+</table>
+
+</br>
+
+<table class = "fourthTable">
+  
+    <tr style = "background-color:rgb(166, 197, 255)">
+        <th rowspan= "11" colspan="2">НХТ</th>
+    <th colspan="11">12д</th>
+  </tr>
+
+    <tr style = "background-color:rgb(197, 217, 255)">
+        <th rowspan="2">Номер</th>
+        <th rowspan="2">Име</th>
+        <th rowspan="2">Фамилия</th>
+        <th rowspan="2">Клас</th>
+        <th colspan="7">Предмети</th>
+    </tr>
+    <tr style = "background-color:rgb(197, 217, 255)">
+      <th>Математика</th>
+      <th>Български език</th>
+      <th>История</th>
+      <th>Философия</th>
+      <th>Биология</th>
+      <th>География</th>
+      <th>Физика</th>
+    </tr>
+  
+    <tr>
+      <td>1</td>
+      <td>Ани</td>
+      <td>Петрова</td>
+      <td>10а</td>
+      <td>5</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>5</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Алекс</td>
+      <td>Иванова</td>
+      <td>10а</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Александър</td>
+      <td>Димитров</td>
+      <td>10а</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+    </tr>
+
+</table>
+
+</br>
+
+<table class = "fifthTable">
+
+    <tr style = "background-color:rgb(255, 255, 255)">
+      <th rowspan="2">Параметри</th> 
+      <th colspan = "3">Количествена характеристика в балове</th>
+    </tr>
+
+     <tr style = "background-color:rgb(255, 255, 255)">
+      <th>слаба</th>
+      <th>ниска</th>
+      <th>силна</th>
+    </tr>
+
+     <tr style = "background-color:rgb(238, 255, 0)">
+      <th colspan="4" class="firstAgeRange">10-11г.</th> 
+    </tr>
+
+    <tr style = "background-color:rgb(255, 255, 255)">
+      <th>Разликата между нивото на претенции и нивото на самооценка.</th>
+      <th>0-7</th>
+      <th>8-22</th>
+      <th>повече от 22</th>
+    </tr>
+
+    <tr style = "background-color:rgb(255, 255, 255)">
+    <th>Степен на диференцираност на претенциите.</th>
+      <th>0-4</th>
+      <th>5-19</th>
+      <th>повече от 19</th>
+    </tr>
+
+   <tr style = "background-color:rgb(255, 255, 255)">
+    <th>Степен на диференцираност на самооценка.</th>
+      <th>0-5</th>
+      <th>6-20</th>
+      <th>повече от 20</th>
+    </tr>
+
+     <tr style = "background-color:rgb(134, 192, 255)">
+      <th colspan="4" class="secondAgeRange">12-14г.</th> 
+    </tr>
+
+     <tr style = "background-color:rgb(255, 255, 255)">
+      <th>Разликата между нивото на претенции и нивото на самооценка.</th>
+      <th>0-10</th>
+      <th>11-25</th>
+      <th>повече от 25</th>
+    </tr>
+
+    <tr style = "background-color:rgb(255, 255, 255)">
+    <th>Степен на диференцираност на претенциите.</th>
+      <th>0-9</th>
+      <th>10-23</th>
+      <th>повече от 23</th>
+    </tr>
+
+   <tr style = "background-color:rgb(255, 255, 255)">
+    <th>Степен на диференцираност на самооценка.</th>
+      <th>0-12</th>
+      <th>13-25</th>
+      <th>повече от 25</th>
+    </tr>
+
+     <tr style = "background-color:rgb(81, 205, 65)">
+      <th colspan="4" class = "thirdAgeRange">15-16г.</th> 
+    </tr>
+
+     <tr style = "background-color:rgb(255, 255, 255)">
+      <th>Разликата между нивото на претенции и нивото на самооценка.</th>
+      <th>0-8</th>
+      <th>9-26</th>
+      <th>повече от 26</th>
+    </tr>
+
+    <tr style = "background-color:rgb(255, 255, 255)">
+    <th>Степен на диференцираност на претенциите.</th>
+      <th>0-11</th>
+      <th>12-26</th>
+      <th>повече от 26</th>
+    </tr>
+
+   <tr style = "background-color:rgb(255, 255, 255)">
+    <th>Степен на диференцираност на самооценка.</th>
+      <th>0-11</th>
+      <th>12-25</th>
+      <th>повече от 25</th>
+    </tr>
+
+</table>
+
+</br>
+
+<table class = "sixthTable">
+
+    <tr style = "background-color: pink;">
+        <th colspan="5">Свойствата на веществата в зависимост от кристалната им структура</th>
+    </tr>
+
+    <tr style = "background-color:rgb(241, 123, 123)">
+      <th rowspan="2">Свойства</th> 
+      <th colspan = "4">Кристална структура</th>
+    </tr>
+
+    <tr style = "background-color:rgb(241, 123, 123)">
+      <th>Метал</th>
+      <th>Йонна</th>
+      <th>Атомна</th>
+      <th>Молекулна</th>
+    </tr>
+
+     <tr style = "background-color:rgb(255, 255, 255)">
+      <th>Разтворимост във вода</th>
+      <th>Неразтворими</th>
+      <th>Разтворими</th>
+      <th colspan="2">Неразтворими</th>
+    </tr>
+
+    <tr style = "background-color:rgb(255, 255, 255)">
+      <th>Електропроводимост</th>
+      <th colspan="2">ДА</th>
+      <th colspan="2">НЕ</th>
+    </tr>
+
+    <tr style = "background-color:rgb(255, 255, 255)">
+      <th>Топлопроводимост</th>
+      <th>Добра</th>
+      <th colspan="3">Лоша</th>
+    </tr>
+
+    <tr style = "background-color:rgb(255, 255, 255)">
+      <th>Разтворимост в орг.разтв.</th>
+      <th colspan="3">Основно неразтворими</th>
+      <th>Основно разтв</th>
+    </tr>
+
+</table>
+
+</br>
+
+<table class="seventhTable"> 
+  <tr style=" background-color: #91A6FF;">
+    <th colspan="5">Условие за пенсиониране</th>
+  </tr>
+
+  <tr style=" background-color: #F9D2FF;">
+    <th rowspan = "2">Година за пенсиониране</th>
+    <th colspan = "2">жени</th>
+    <th colspan = "2">мъже</th>
+  </tr>
+
+  <tr style=" background-color: #F9D2FF;">
+    <th>възраст</th>
+    <th>стаж</th>
+    <th>възраст</th>
+    <th>стаж</th>
+  </tr>
+
+    <tr style = "background-color: #ffffff; text-align: center;">
+      <td>2017</td>
+      <td>61г.</td>
+      <td>35г. 4м.</td>
+      <td>64г.</td>
+      <td>38г. 4м.</td>
+    </tr>
+
+       <tr style = "background-color: #ffffff; text-align: center;">
+      <td>2018</td>
+      <td>61г. 2м.</td>
+      <td>35г. 6м.</td>
+      <td>64г. 2м.</td>
+      <td>38г. 6м.</td>
+    </tr>
+</table>
+
+</br>
+
+<table class ="eightTable">
+  <tr style=" background-color: #EAAEFF;">
+    <th colspan="5">Условия за пенсиониране на осигурителен стаж и възраст</th>
+  </tr>
+
+  <tr style=" background-color: #BDAEFF;">
+    <th colspan="2">Жени</th>
+    <th colspan="2">Мъже</th>
+    <th rowspan="2"> Година за пенсиониране</th>
+  </tr>
+
+  <tr style=" background-color: #BDAEFF;">
+    <th>възраст</th>
+    <th>стаж</th>
+    <th>възраст</th>
+    <th>стаж</th>
+  </tr>
+
+  <tr style="text-align: center;">
+    <td>61г.</td>
+    <td>35г. 4м.</td>
+    <td>64г.</td>
+    <td>38г. 4м.</td>
+    <td>2017</td>
+  </tr>
+
+  <tr style ="text-align: center;">
+    <td>61г. 2м.</td>
+    <td>35г. 6м.</td>
+    <td>64г. 1м.</td>
+    <td>38г. 6м.</td>
+    <td>2018</td>
+  </tr>
+</table>
+
+</br>
+
+<form>
+<table class="ninthTable">
+    <tr>
+        <th colspan="6" class="title" >ВАШИТЕ ПРЕПОРЪКИ ЗА САЙТА</th>
+    </tr>
+
+    <tr>
+        <th colspan="6" class="section" style="background-color: #6b6eff; color:white">ОСНОВНИ ДАННИ</th>
+    </tr>
+
+    <tr style="background-color: rgb(201, 135, 255);">
+        <td>Име:</td>
+        <td><input type="text"></td>
+
+        <td>Презиме:</td>
+        <td><input type="text"></td>
+
+        <td>Фамилия:</td>
+        <td><input type="text"></td>
+    </tr>
+
+    <tr>
+        <td>Адрес:</td>
+        <td colspan="5"><input type="text"></td>
+    </tr>
+
+    <tr>
+        <th colspan="6" class="section" style="background-color: #6b6eff; color: white;">ДОПЪЛНИТЕЛНА ИНФОРМАЦИЯ</th>
+    </tr>
+
+    <tr class="center" style="background-color: rgb(201, 135, 255);">
+        <td colspan="2">
+            <input type="radio" name="gender"> Мъж
+            <input type="radio" name="gender"> Жена
+        </td>
+        <td colspan="2">
+            <input type="checkbox"> Работите ли?
+        </td>
+        <td colspan="2">
+            <input type="checkbox"> Учите ли?
+        </td>
+    </tr>
+
+    <tr>
+        <th colspan="6" class="section" style="background-color: #6b6eff; color:white;">ПРЕПОРЪКИ</th>
+    </tr>
+
+    <tr>
+        <td colspan="6">
+            <textarea placeholder="Тук напишете вашите препоръки за сайта!"></textarea>
+        </td>
+    </tr>
+
+    <tr>
+        <td colspan="6" class="center buttons">
+            <input type="submit" value="Изпрати">
+            <input type="reset" value="Изчисти">
+        </td>
+    </tr>
+</table>
+</form>
+
+</body>
+</html>
